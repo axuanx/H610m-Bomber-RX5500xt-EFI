@@ -14,7 +14,7 @@ MacOS Monterty 12.3+OpenCore 0.7.9
 
 ☆主板 MSI H610M BOMBER DDR4
 
-☆CPU intel Core i3-12490F
+☆CPU intel Core i5-12490F
 
 ☆内存 阿斯加特 DDR4 3200 8GBx2
 
